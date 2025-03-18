@@ -16,14 +16,14 @@ Este sistema web responsivo foi desenvolvido para o cadastro e gerenciamento de 
 - **Bootstrap 5:** Framework para facilitar o desenvolvimento responsivo.
 - **Font Awesome 6:** Ícones e elementos gráficos para enriquecer a interface.
 
-##Instalação e Execução
-  Pré-requisitos
-  Navegador Web Moderno: Recomendamos o uso de navegadores atualizados, como Google Chrome, Mozilla Firefox ou Microsoft Edge.
-  Conexão com a Internet: Necessária para carregar recursos via CDN (Bootstrap, Font Awesome).
-  Passos para Instalar e Executar
-  Clone o Repositório:
-  bash
-  Copiar
-  Editar
-  git clone https://github.com/barroscgo/PaginaAgronomia.git
-  Abra o Arquivo: Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador.
+## Instalação e Execução
+
+### Pré-requisitos
+- **Navegador Web Moderno:** Recomenda-se o uso de navegadores atualizados, como Google Chrome, Mozilla Firefox ou Microsoft Edge.
+- **Conexão com a Internet:** Necessária para carregar recursos via CDN (Bootstrap, Font Awesome).
+
+### Passos para Instalar e Executar
+1. **Clonar o Repositório:**
+   ```bash
+   git clone https://github.com/barroscgo/PaginaAgronomia.git
+2. Abrir o Arquivo: Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador preferido.
